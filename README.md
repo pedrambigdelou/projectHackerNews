@@ -1,0 +1,2 @@
+# Hacker News Project
+This repo contains a sample project based on the Hacker News website. In this project, the user can interact with the server by creating an account, logging in, creating a story by submitting a form, and sending the form data to server using API links. The user can also make a list of favorite stories by clicking stars next to stories. The application has been created using jQuery elements and Axios functions communicating with server using API links.
